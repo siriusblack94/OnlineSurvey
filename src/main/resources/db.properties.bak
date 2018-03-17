@@ -1,0 +1,5 @@
+jdbc.user=planet
+jdbc.password=123456
+jdbc.driverClass=com.mysql.jdbc.Driver
+jdbc.jdbcUrl=jdbc:mysql:///surveys
+

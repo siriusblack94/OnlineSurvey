@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="com.bistu.survey.entities.User" table="T_USER" >
+        <id name="uid" type="java.lang.Integer">
+            <column name="UID" />
+            <generator class="native" />
+        </id>
+        <property name="username" type="java.lang.String">
+            <column name="USER_NAME"  not-null="true" unique="true"/>
+        </property>
+        <property name="password" type="java.lang.String">
+            <column name="PASSWORD"  not-null="true" />
+        </property>
+        <property name="email" type="java.lang.String">
+            <column name="EMAIL" unique="true"/>
+        </property>
+        <property name="createtime" type="java.util.Date">
+            <column name="CREATE_TIME"  not-null="true"/>
+        </property>
+        <property name="nickname" type="java.lang.String">
+            <column name="NICK_NAME" />
+        </property>
+        
+        <!-- inverse:inverse的真正作用就是指定由哪一方来维护之间的关联关系。
+        当一方中指定了“inverse=false”（默认），那么那一方就有责任负责之间的关联关系 
+        inverse=true;表示当前方不维护关系：比如本实例中的User（一的）一方不维护关系
+        -->
+        <!--lazy:  lazy表示的是该属性是否懒惰加载，默认值是 true，
+        当值为 true 的时候你在查询主对象，不会立即加载该属性值，反之则立即加载-->
+        <!--  cascade="delete" 删除的时候级联 同步更新数据库-->
+        <list name="surveys"   inverse="true" table="T_SURVEY" lazy="true" cascade="delete">
+            <key>
+                <column name="UID" /><!-- survey表的外键 -->
+            </key>
+            <list-index column="SID"></list-index> <!-- survey表的主键 -->
+            <one-to-many class="com.bistu.survey.entities.Survey" />
+        </list>
+    </class>
+</hibernate-mapping>

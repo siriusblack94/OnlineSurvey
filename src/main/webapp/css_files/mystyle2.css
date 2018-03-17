@@ -1,0 +1,102 @@
+.content{
+	border:2px solid #F00;
+	border-radius:25px;
+	-moz-border-radius:25px
+	 width:200px; 
+	height:auto!important;
+    height:1000px;
+    min-height:1000px;
+}
+.con{
+	
+	margin:0 auto;
+	
+	border:2px solid #F00;
+	border-radius:25px;
+	width: 1300px;
+	height:auto!important;
+    height:950px;
+    min-height:950px;
+}
+
+.tab{
+	font-size: 20px;
+	color: blue;
+	
+}
+
+.delete{
+	font-size: 20px;
+	color: red;
+	
+}
+
+.radio{
+	width: 2%;
+	vertical-align:middle; margin-top:0;
+}
+.jianda{
+	
+	width:550px ;
+	height: 100px;
+}
+.inputsub{
+	
+	width:100px ;
+	height: 50px;
+	
+	margin:0 auto;
+	margin-top:50px;
+	
+}
+
+.sub{
+	text-align:center;
+	
+	border:2px solid #2669d9;
+	border-radius:25px;
+	font-size:30px;
+	color: red;
+	width:100px ;
+	height: 50px;
+	background-color: #5efdb1;
+	
+}
+
+.tiData {display: none;}
+		
+		
+		
+.divall{
+	width:98%;
+}	
+
+.div1{
+	padding:2px;
+	float:left;width:1050px;height:40px;
+	
+	
+}	
+
+.div2{
+	padding:2px;
+	height:40px;width:auto;margin-left:1050px;
+	
+}	
+.h4{
+	 width: 1250px;
+	 color: #01047e;
+}
+.hr{
+	margin: 5px;border: 1px solid rgb(137, 18, 212);
+}
+.h3{
+	color: blue;
+}
+.strong{
+	color: red;
+}
+.hidden{
+	width: 170px;
+	
+}

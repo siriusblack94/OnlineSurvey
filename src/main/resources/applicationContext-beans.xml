@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="userDao" class="com.bistu.survey.dao.UserDao">
+	<property name="sessionFactory" ref="sessionFactory"></property>
+	</bean>
+	<bean id="userService" class="com.bistu.survey.service.UserService">
+	<property name="userDao"  ref="userDao"/>
+	</bean>
+	<bean id="userAction" class="com.bistu.survey.actions.UserAction" scope="prototype">
+		<property name="userService" ref="userService"></property>
+	</bean>
+	
+	
+	<bean id="surveyDao" class="com.bistu.survey.dao.SurveyDao">
+	<property name="sessionFactory" ref="sessionFactory"></property>
+	</bean>
+	<bean id="surveyService" class="com.bistu.survey.service.SurveyService">
+		<property name="surveyDao"  ref="surveyDao"/>
+	</bean>
+	<bean id="surveyAction" class="com.bistu.survey.actions.SurveyAction">
+	<property name="surveyService"  ref="surveyService"></property>
+	</bean>
+	
+	
+	<bean id="adminDao" class="com.bistu.survey.dao.AdminDao">
+	<property name="sessionFactory" ref="sessionFactory"></property>
+	</bean>
+	<bean id="adminService" class="com.bistu.survey.service.AdminService">
+		<property name="adminDao"  ref="adminDao"/>
+	</bean>
+	<bean id="adminAction" class="com.bistu.survey.actions.AdminAction">
+	<property name="adminService"  ref="adminService"></property>
+	</bean>
+	
+	<bean id="answerDao" class="com.bistu.survey.dao.AnswerDao">
+	<property name="sessionFactory" ref="sessionFactory"></property>
+	</bean>
+	<bean id="answerService" class="com.bistu.survey.service.AnswerService">
+		<property name="answerDao"  ref="answerDao"/>
+	</bean>
+	<bean id="answerAction" class="com.bistu.survey.actions.AnswerAction">
+	<property name="answerService"  ref="answerService"></property>
+	</bean>
+	
+	
+	
+</beans>

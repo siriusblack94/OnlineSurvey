@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2016-5-28 14:12:22 by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.bistu.survey.entities.Answer" table="T_ANSWER">
+        <id name="id" type="java.lang.Integer">
+            <column name="AID" />
+            <generator class="native" />
+        </id>
+        <many-to-one name="user" class="com.bistu.survey.entities.User" fetch="join" >
+            <column name="UID" />
+        </many-to-one>
+        <many-to-one name="survey" class="com.bistu.survey.entities.Survey" fetch="join"   >
+            <column name="SID" />
+        </many-to-one>
+        <many-to-one name="question" class="com.bistu.survey.entities.Question" fetch="join" >
+            <column name="QID" />
+        </many-to-one>
+       <property name="result" type="java.lang.String">
+            <column name="RESULT" />
+        </property>
+      <property name="number" type="java.lang.Long">
+            <column name="NUMBER" />
+        </property>
+    </class>
+</hibernate-mapping>

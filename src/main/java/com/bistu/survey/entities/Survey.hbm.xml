@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="com.bistu.survey.entities.Survey" table="T_SURVEY"  >
+        <id name="sid" type="java.lang.Integer">
+            <column name="SID" />
+            <generator class="native" /> 
+            <!--  native: 对于MySQL 采用identity（自增主键生成机制），
+            native就是将主键的生成工作交由数据库完成。assigned: 在插入数据的时候主键由程序处理（很常用），
+            这是 <generator>元素没有指定时的默认生成策略。等同于JPA中的AUTO。
+            JPA提供的四种标准用法为TABLE,SEQUENCE,IDENTITY,AUTO. 
+			TABLE：使用一个特定的数据库表格来保存主键。 
+			SEQUENCE：根据底层数据库的序列来生成主键，条件是数据库支持序列。 
+			IDENTITY：主键由数据库自动生成（主要是自动增长型） 
+			AUTO：主键由程序控制。   --> 
+        </id>
+        <property name="surveyname" type="java.lang.String">
+            <column name="SURVEY_NAME"  />
+        </property>
+        <property name="createTime" type="java.util.Date">
+            <column name="CREATE_TIME"  not-null="true"/>
+        </property>
+         <property name="state" type="java.lang.String">
+            <column name="STATE" not-null="true"/>
+        </property>
+		<many-to-one name="user" class="com.bistu.survey.entities.User" fetch="join" lazy="false">
+            <column name="UID"  not-null="true" />
+        </many-to-one>
+          <list name="questions"  inverse="true" table="T_QUESTION" lazy="true" cascade="delete" >
+            <key>
+                <column name="SID" />
+            </key>
+            <list-index column="QID"></list-index>
+            <one-to-many class="com.bistu.survey.entities.Question" />
+        </list>
+        <!-- fetch="join",已经指明了使用外连接查询，那么lazy的值就没什么用了，2端的数据都会查询出来，延迟不起作用
+		给你举一下fetch和lazy结合使用的情况。
+		1、当lazy="true" fetch = "select" 的时候 ， 这个时候是使用了延迟策略，
+			开始只查询出一端实体，多端的不会查询，只有当用到的时候才会发出sql语句去查询 ； 
+		
+		2、当lazy="false" fetch = "select" 的时候 ，
+			 这个时候是使没有用延迟策略，同时查询出一端和多端，同时产生1+n条sql. 
+		
+		3、当lazy="true" lazy="false" fetch = "join"的时候，
+			这个时候延迟已经没有什么用了，因为采用的是外连接查询，同时把一端和多端都查询出来了，延迟没有起作用。 -->
+    </class>
+</hibernate-mapping>

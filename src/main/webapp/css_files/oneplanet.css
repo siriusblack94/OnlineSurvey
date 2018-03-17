@@ -1,0 +1,21 @@
+body{background-color:#fff}
+.header{padding:10px 0}
+.stage{box-shadow:0 1px 5px rgba(0,0,0,0.15);padding:10px 50px 40px 50px;background-color:#FCFCFC;border:1px solid #ECECEC;border-radius:5px}
+.stage form{margin:10px 0}
+.stage button{margin:20px 0}
+@media (min-width:768px){.login-layout{width:40%;margin: auto}
+.min{height:auto;min-height:300px;}
+li{font-size:120%;line-height:30px;}
+.color{color:#ff8040;font-size:150%;}
+.help{color:#800000;font-size:110%;}
+.name-input{width:50%;height:34px;padding:6px 12px;background-color:#fff;background-image:none;border:1px solid #ccc;border-radius:4px;box-shadow:inset 0 1px 1px rgba(0,0,0,.075);-webkit-transition:border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s}
+.ifra{
+	
+	margin:0 auto;
+	border:2px solid #F00;
+	border-radius:25px;
+	width: 100%;
+	height:auto!important;
+    height:900px;
+    min-height:900px;
+}

@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="OnlineSurvey:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88c22ec5-e6c6-46d2-811d-432bc4004020" name="Default" comment="A TestSSHDemo">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/artifacts/OnlineSurvey_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/artifacts/OnlineSurvey_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/dictionaries/SIRIUS.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__antlr_antlr_2_7_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__asm_asm_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__asm_asm_commons_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__asm_asm_tree_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__cglib_cglib_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__com_alibaba_fastjson_1_2_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__javassist_javassist_3_11_0_GA.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__junit_junit_4_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__ognl_ognl_3_0_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_apache_struts_struts2_core_2_3_24_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_apache_struts_struts2_json_plugin_2_3_24_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_apache_struts_struts2_spring_plugin_2_3_24_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_apache_struts_xwork_xwork_core_2_3_24_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_freemarker_freemarker_2_3_22.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_hibernate_hibernate_commons_annotations_3_2_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_hibernate_hibernate_core_3_6_10_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_aop_3_2_17_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_beans_3_2_17_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_context_3_2_17_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_core_3_2_17_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_expression_3_2_17_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_jdbc_3_2_17_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_orm_3_2_17_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_tx_3_2_17_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_web_3_2_17_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_17_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/OnlineSurvey.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/actions/AdminAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/actions/AnswerAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/actions/SurveyAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/actions/UserAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/dao/AdminDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/dao/AnswerDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/dao/BaseDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/dao/SurveyDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/dao/UserDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Admin.hbm.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Admin.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Answer.hbm.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Answer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Question.hbm.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Question.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/QuestionAnswer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Survey.hbm.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Survey.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/SurveyAnswer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/User.hbm.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/UserDTO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/UserVO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/filter/RequestFilter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/service/AdminService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/service/AnswerService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/service/SurveyService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/service/UserService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/vo/AnswerVO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/vo/QuestionVO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/vo/SurveyVO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/applicationContext-beans.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/applicationContext.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/db.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/db.properties.bak" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/format.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/hibernate.cfg.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/struts.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/surveys.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/user.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/error.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/login.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/main.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/sessionAdmin.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/sessionAdminLogin.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/sessionAdminSon.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/survey-add.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/survey-list.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/user-add.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/user-list.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/bootstrap-combined.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/bootstrap-combined.min.css.bak" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/common.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/css-table.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/htmleaf-demo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/mystyle.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/mystyle2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/normalize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/oneplanet.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/oneplanet.css.bak" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/site-globe.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/system.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/SessionOverdue.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/changePassword.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/count.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/createSurvey.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/error.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/hello.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/login.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/mumberHome.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/publishedSurvey.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/register.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/sessionUser.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/sessionUserLogin.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/sessionUserSon.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/success.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/survey-list.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/survey.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/surveys.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/userModify.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/admin/bg1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/admin/bg2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/admin/bg3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/admin/input.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/admin/quit.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/bangzhu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/fes_chouchin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/fes_ink1-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/fes_ink1-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/weixin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/checkAnswer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/checkPass.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/checkSurvey-add.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/checkUserAdd.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/checkUserRigester.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/checkadmin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/jquery-1.12.3.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/jquery-1.2.6.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/jquery-1.8.3.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/jquery-2.1.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/jquery.easing.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/jquery.nGyroParallax.min.sourcemap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/myFunction.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/style-table.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OnlineSurvey" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="css-table.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/css-table.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../OnlineSurvey" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../OnlineSurvey/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.3.9\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/..//apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.3.9\conf\UserSettings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="OnlineSurvey" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="OnlineSurvey" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="OnlineSurvey" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.slf4j:slf4j-log4j12:1.7.2" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="293" />
+    <option name="width" value="1430" />
+    <option name="height" value="991" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OnlineSurvey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineSurvey" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnlineSurvey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineSurvey" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.1484375" />
+    <property name="project.structure.side.proportion" value="0.3426724" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OnlineSurvey" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.26" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="OnlineSurvey:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_OnlineSurvey_3" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64924" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="OnlineSurvey:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88c22ec5-e6c6-46d2-811d-432bc4004020" name="Default" comment="" />
+      <created>1521310502375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521310502375</updated>
+      <workItem from="1521310506856" duration="182000" />
+      <workItem from="1521310798349" duration="3998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4180000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43255296" sideWeight="0.22707888" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.68540144" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4330357" sideWeight="0.7729211" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18496802" sideWeight="0.49283153" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25328466" sideWeight="0.5071685" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25328466" sideWeight="0.5071685" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A TestSSHDemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="A TestSSHDemo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/OnlineSurvey.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/format.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/applicationContext-beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="71" column="25" lean-forward="true" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/error.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/user-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/mumberHome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="48" column="15" lean-forward="false" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/surveys.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="38" column="43" lean-forward="false" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/dao/AnswerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/survey.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="116" column="26" lean-forward="true" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/htmleaf-demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/css-table.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>OnlineSurvey:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3426724" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (OnlineSurvey)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3426724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3426724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3426724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|OnlineSurvey</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3426724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3426724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

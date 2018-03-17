@@ -1,0 +1,50 @@
+.content{
+	border:2px solid #F00;
+	border-radius:25px;
+	-moz-border-radius:25px
+	 width:200px; height:750px
+	
+}
+.con{
+	
+	margin-left:25%;
+	margin-top:50px;
+	margin-bottom:50px;
+	border:2px solid #F00;
+	border-radius:25px;
+	width: 1100px;
+	height: 650px;
+}
+
+.tab{
+	font-size: 20px;
+	color: blue;
+	margin:0 auto;
+	margin-top: 10px;
+	
+}
+
+.delete{
+	font-size: 20px;
+	color: red;
+	
+}
+.td1{
+	padding:3px;
+	padding-left:5px;
+	width: 150px;
+}
+.td2{
+	padding:3px;
+	padding-left:5px;
+	width: 700px;
+}
+.td3{
+	padding:3px;
+	padding-left:5px;
+	width: 100px;
+}
+.answer{
+	color:red;
+
+}

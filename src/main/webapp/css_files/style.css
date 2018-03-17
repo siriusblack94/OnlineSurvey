@@ -1,0 +1,221 @@
+/*此文件是：在做新项目的时候，写全新html和css用到的共用css,无须写命名空间。*/
+/*reset*/
+html, body, div, h2, h3, h4, p, td, tr, ul, ol, li, table, dl, dd, dt, img, form { margin: 0; padding: 0;}
+body, button, input, select, textarea { font-size: 12px;
+  /*font-family: tahoma,arial,'Hiragino Sans GB',\5b8b\4f53,sans-serif;*/
+  font-family: arial, "Hiragino Sans GB";}
+h1, h2, h3, h4, h5, h6 { font-size: 100%;}
+ol, ul { list-style: none;}
+table { border-collapse: collapse; border-spacing: 0;}
+fieldset, img { border: 0;}
+a { text-decoration: none; color: black;}
+.clearfix { *zoom: 1;}   
+.clearfix:before, .clearfix:after { display: table; content: "";}
+.clearfix:after { clear: both;}
+.clear { *zoom: 1;}
+.clear:before, .clear:after { display: table; content: "";}
+.clear:after { clear: both;}
+/*自定义*/
+.bw {background: white;}
+.bb {background: black;}
+.cw { color: white;}
+.cb { color: black;}
+.cp { cursor: pointer;}
+.dn { display: none;}
+.db { display: block;
+	
+
+
+}
+.dib { display: inline-block;}
+.di { display: inline;}
+.fl { 
+	float: left;
+	/* margin: 5px; */
+	padding: 5px;	 
+}
+.f2{
+	float: left;
+	font-size: 20px;
+		color: #0000ff;
+		background-color: #83fe8f;
+		border: 1px solid #F00;
+		width: 100px;
+		height: 30px;
+}
+.fr { float: right;}
+.fwb { font-weight: bold;}
+.fwn { font-weight: normal;}
+.m0a { margin: 0 auto;}
+.tac { text-align: center;}
+.tal { text-align: left;}
+.tar { text-align: right;}
+.fs12 { font-size: 12px;}
+.fs13 { font-size: 13px;}
+.fs14 { font-size: 14px;}
+.fs15 { font-size: 15px;}
+.fs16 { font-size: 16px;}
+.fs17 { font-size: 17px;}
+.fs18 { font-size: 18px;}
+.fs19 { font-size: 19px;}
+.fs20 { font-size: 20px;}
+.fs21 { font-size: 21px;}
+.fs22 { font-size: 22px;}
+.fs23 { font-size: 23px;}
+.fs24 { font-size: 24px;}
+.fs25 { font-size: 25px;}
+.fs26 { font-size: 26px;}
+.fs27 { font-size: 27px;}
+.fs28 { font-size: 28px;}
+.fs29 { font-size: 29px;}
+.fs30 { font-size: 30px;}
+.w100 {width: 100px;}
+.w1000 {width: 100%;
+/* border:1px solid #F00;
+	border-color: blue; */
+}
+
+
+.must {position:absolute;z-index:2;}
+/* .release {position:absolute;z-index:1;top:20px;} */
+
+.surveys{
+	margin-top:10px;
+	padding:10px;
+	margin:0 auto;
+	/* border:1px solid #0c11f3; */
+	width: 80%;
+	text-align: center;
+}
+
+.contents {
+	
+	margin: 0 auto;
+	width: 80%;
+	margin-top: 10px;
+	padding: 5px;
+	font-size: 23px;
+}
+
+.content-jianda textarea {
+	height: 60px;
+    width: 200px;
+    margin-left:250px;
+    max-height:100px;
+    max-width:400px;
+   
+}
+.btns button {
+	margin: 10px;
+}
+.body-all{
+	width: 60%;
+	margin:0 auto;
+	text-align: center;
+}
+.all{
+	
+	width: 100%
+}
+.in{
+	width: 38%;
+	border:2px solid #0080ff;
+	border-color: #0080ff;
+	max-width: 900px;
+	max-height: 150px;
+}
+.survey-name{
+	color: red;
+	text-align: center;
+}
+.type{
+	margin-top: 8px;
+	float: left;
+}
+.release{
+	width: 100%;
+	border:1px solid #F00;
+	border-color: red;
+	margin:0 auto;
+	
+	margin-top: 15px;
+}
+.commit{
+	float: right;
+	
+	
+	text-align:center;
+	
+	border:2px solid ;
+	border-radius:25px;
+	font-size:30px;
+	color: #0000ff;
+	width:280px ;
+	height: 30px;
+	background-color: #ff80c0;
+}
+.del{
+	margin-top:5px;
+	float: right;
+	border:1px solid #0000ff;
+	border-radius:25px;
+	font-size:25px;
+	width:80px ;
+	height: 30px;
+	background-color: #00ffff;
+}
+
+
+input.fl.ques {
+    height: 25px;
+    border:1px solid #0000ff;
+	
+	margin: 10px;
+	width: 350px;
+}
+.items{
+	margin-left:205px;
+	width: 450px;
+}
+.item{
+	margin-top: 10px;
+}
+
+textarea.db {
+	
+	height: 50px;
+    width: 300px;
+    margin-left: 240px;
+    max-height: 100px;
+    max-width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

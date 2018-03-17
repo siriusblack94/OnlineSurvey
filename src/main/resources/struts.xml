@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+    "http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+
+	<!-- 指定由spring负责action对象的创建 -->
+    <constant name="struts.objectFactory" value="spring" />
+    <!-- 所有匹配*.action的请求都由struts2处理 -->
+   <!--  <constant name="struts.action.extension" value="action" /> -->
+    <!-- 是否启用开发模式(开发时设置为true,发布到生产环境后设置为false) -->
+    <constant name="struts.devMode" value="true" />
+    <!-- struts配置文件改动后，是否重新加载(开发时设置为true,发布到生产环境后设置为false) -->
+    <constant name="struts.configuration.xml.reload" value="true" />
+    <!-- 设置浏览器是否缓存静态内容(开发时设置为false,发布到生产环境后设置为true) -->
+    <constant name="struts.serve.static.browserCache" value="false" />
+    <!-- 请求参数的编码方式 -->
+    <constant name="struts.i18n.encoding" value="utf-8" />
+    <!-- 每次HTTP请求系统都重新加载资源文件，有助于开发(开发时设置为true,发布到生产环境后设置为false) -->
+    <constant name="struts.i18n.reload" value="true" />
+    <!-- 文件上传最大值 -->
+    <constant name="struts.multipart.maxSize" value="104857600" />
+    <!-- 让struts2支持动态方法调用,使用叹号访问方法 -->
+    <!-- <constant name="struts.enable.DynamicMethodInvocation" value="true" /> -->
+    <!-- Action名称中是否还是用斜线 -->
+   <!--  <constant name="struts.enable.SlashesInActionNames" value="false" /> -->
+    <!-- 允许标签中使用表达式语法 -->
+    <constant name="struts.tag.altSyntax" value="true" />
+    <!-- 对于WebLogic,Orion,OC4J此属性应该设置成true -->
+    <constant name="struts.dispatcher.parametersWorkaround" value="false" />
+	<!-- 指定存放临时文件的文件夹  -->
+    <constant name="struts.multipart.saveDir" value="/tmp"/>
+    <!-- 对naction包感兴趣 解决HanLP jar包导入出错的情况  -->
+    <constant name="struts.convention.package.locators" value="naction,struts,actions,struts2"/>
+	<constant name="struts.custom.i18n.resources" value="format"></constant>
+
+	<package name="front" namespace="/" extends="struts-default" >
+		<default-action-ref name="defaultAction"></default-action-ref>
+		<action name="defaultAction">
+			<result>index.jsp</result>
+		</action>
+		<action name="login">
+			<result>
+				front/login.jsp
+			</result>
+		</action>
+		<action name="register">
+			<result>
+				front/register.jsp
+			</result>
+		</action>
+
+
+		<action name="user-*" class="com.bistu.survey.actions.UserAction"
+			method="{1}">
+
+
+			<result type="stream" name="valid">
+				<param name="contentType">text/html</param>
+				<param name="inputName">inputStream</param>
+			</result>
+
+			<result type="stream" name="delete">
+				<param name="contentType">text/html</param>
+				<param name="inputName">inputStream</param>
+			</result>
+			<result type="stream" name="change">
+				<param name="contentType">text/html</param>
+				<param name="inputName">inputStream</param>
+			</result>
+			<result name="save" >
+				front/userModify.jsp
+			</result>
+			<result name="add" >
+				front/login.jsp
+			</result>
+
+		</action>
+		
+		
+		<action name="survey-*" class="com.bistu.survey.actions.SurveyAction"
+			method="{1}">
+			<result name="create"  type="redirect">
+				mumberHome.jsp
+			</result>
+			<result name="find"  >
+				front/survey-list.jsp
+			</result>
+			<result type="stream" name="success">
+				<param name="contentType">text/html</param>
+				<param name="inputName">inputStream</param>
+			</result>
+			<result type="stream" name="create">
+				<param name="contentType">text/html</param>
+				<param name="inputName">inputStream</param>
+			</result>
+			<result name="findPublished" >
+				front/publishedSurvey.jsp
+			</result>
+			
+			<result name="list"  >
+				front/surveys.jsp
+			</result>
+			
+			<result name="survey" >
+				front/survey.jsp
+			</result>
+			
+			
+			
+			
+			
+			
+		</action>
+		
+		<action name="answer-*" class="com.bistu.survey.actions.AnswerAction"
+			method="{1}">
+		 	<result name="save" >
+				front/success.jsp
+			</result>
+			<result name="fail">
+				front/error.jsp
+			</result>
+			<result  name="countByID" >
+				front/count.jsp
+			</result>
+			
+			
+			
+		</action>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</package>
+
+
+
+	<package name="admin" namespace="/admin" extends="struts-default">
+		<!-- 定义新的拦截器栈，配置prepare拦截器栈的alwaysInvokePrepare参数为false -->
+		<interceptors>
+			<interceptor-stack name="ssh">
+				<interceptor-ref name="paramsPrepareParamsStack">
+					<param name="prepare.alwaysInvokePrepare">false</param>
+				</interceptor-ref>
+			</interceptor-stack>
+		</interceptors>
+		<!-- 新的拦截器栈 -->
+		<default-interceptor-ref name="ssh"></default-interceptor-ref>
+		<default-action-ref name="defaultAction"></default-action-ref>
+		<action name="defaultAction">
+			<result>
+				login.jsp
+			</result>
+		</action>
+		<action name="main">
+			<result>
+				main.jsp
+			</result>
+		</action>
+
+		<action name="user-*" class="com.bistu.survey.actions.UserAction"
+			method="{1}">
+
+			<result name="list">
+				user-list.jsp
+			</result>
+			<result name="add" type="redirect">
+				user-list
+			</result>
+			<result type="stream" name="delete">
+				<param name="contentType">text/html</param>
+				<param name="inputName">inputStream</param>
+			</result>
+
+		</action>
+		<action name="survey-*" class="com.bistu.survey.actions.SurveyAction"
+			method="{1}">
+			<result name="list">
+				survey-list.jsp
+			</result>
+			<result name="add">
+				survey-add.jsp
+			</result>
+			<result type="stream" name="success">
+				<param name="contentType">text/html</param>
+				<param name="inputName">inputStream</param>
+			</result>
+			<result name="save" type="redirect">
+				survey-list
+			</result>
+			<result name="error">
+				error.jsp
+			</result>
+		</action>
+		<action name="admin-*" class="com.bistu.survey.actions.AdminAction"
+			method="{1}">
+			<result type="stream" name="success">
+				<param name="contentType">text/html</param>
+				<param name="inputName">inputStream</param>
+			</result>
+			<result type="redirect" name="login">
+				login.jsp
+			</result>
+
+		</action>
+	</package>
+
+
+</struts>
