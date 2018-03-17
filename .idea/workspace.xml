@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c22ec5-e6c6-46d2-811d-432bc4004020" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../OnlineSurvey/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="88c22ec5-e6c6-46d2-811d-432bc4004020" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -346,7 +344,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521310502375</updated>
       <workItem from="1521310506856" duration="182000" />
-      <workItem from="1521310798349" duration="6832000" />
+      <workItem from="1521310798349" duration="6845000" />
     </task>
     <task id="LOCAL-00001" summary="A TestSSHDemo">
       <created>1521314883365</created>
@@ -376,11 +374,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521317259009</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="A TestSSHDemo">
+      <created>1521317646599</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521317646599</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7014000" />
+    <option name="totallyTimeSpent" value="7027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
