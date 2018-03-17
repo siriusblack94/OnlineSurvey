@@ -7,175 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88c22ec5-e6c6-46d2-811d-432bc4004020" name="Default" comment="A TestSSHDemo">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/artifacts/OnlineSurvey_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/artifacts/OnlineSurvey_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/dictionaries/SIRIUS.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__antlr_antlr_2_7_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__asm_asm_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__asm_asm_commons_3_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__asm_asm_tree_3_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__cglib_cglib_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__com_alibaba_fastjson_1_2_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__javassist_javassist_3_11_0_GA.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__junit_junit_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__ognl_ognl_3_0_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_apache_struts_struts2_core_2_3_24_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_apache_struts_struts2_json_plugin_2_3_24_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_apache_struts_struts2_spring_plugin_2_3_24_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_apache_struts_xwork_xwork_core_2_3_24_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_freemarker_freemarker_2_3_22.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_hibernate_hibernate_commons_annotations_3_2_0_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_hibernate_hibernate_core_3_6_10_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_aop_3_2_17_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_beans_3_2_17_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_context_3_2_17_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_core_3_2_17_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_expression_3_2_17_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_jdbc_3_2_17_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_orm_3_2_17_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_tx_3_2_17_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_web_3_2_17_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_17_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/OnlineSurvey.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/actions/AdminAction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/actions/AnswerAction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/actions/SurveyAction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/actions/UserAction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/dao/AdminDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/dao/AnswerDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/dao/BaseDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/dao/SurveyDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/dao/UserDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Admin.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Admin.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Answer.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Answer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Question.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Question.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/QuestionAnswer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Survey.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Survey.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/SurveyAnswer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/User.hbm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/UserDTO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/UserVO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/filter/RequestFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/service/AdminService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/service/AnswerService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/service/SurveyService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/service/UserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/vo/AnswerVO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/vo/QuestionVO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/vo/SurveyVO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/applicationContext-beans.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/db.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/db.properties.bak" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/format.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/hibernate.cfg.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/log4j.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/struts.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/surveys.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/user.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/error.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/main.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/sessionAdmin.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/sessionAdminLogin.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/sessionAdminSon.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/survey-add.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/survey-list.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/user-add.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/admin/user-list.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/bootstrap-combined.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/bootstrap-combined.min.css.bak" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/common.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/css-table.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/htmleaf-demo.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/mystyle.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/mystyle2.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/normalize.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/oneplanet.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/oneplanet.css.bak" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/site-globe.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/system.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/SessionOverdue.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/changePassword.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/count.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/createSurvey.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/error.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/hello.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/mumberHome.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/publishedSurvey.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/register.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/sessionUser.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/sessionUserLogin.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/sessionUserSon.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/success.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/survey-list.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/survey.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/surveys.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/userModify.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/admin/bg1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/admin/bg2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/admin/bg3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/admin/input.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/admin/quit.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/bangzhu.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/fes_chouchin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/fes_ink1-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/fes_ink1-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/images/front/weixin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/checkAnswer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/checkPass.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/checkSurvey-add.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/checkUserAdd.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/checkUserRigester.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/checkadmin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/jquery-1.12.3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/jquery-1.2.6.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/jquery-1.8.3.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/jquery-2.1.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/jquery.easing.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/jquery.nGyroParallax.min.sourcemap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/myFunction.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/js/style-table.js" />
+      <change beforePath="$PROJECT_DIR$/../OnlineSurvey/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OnlineSurvey/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Admin.hbm.xml" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/Admin.hbm.xml" />
+      <change beforePath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Answer.hbm.xml" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/Answer.hbm.xml" />
+      <change beforePath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Question.hbm.xml" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/Question.hbm.xml" />
+      <change beforePath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/Survey.hbm.xml" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/Survey.hbm.xml" />
+      <change beforePath="$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/entities/User.hbm.xml" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/User.hbm.xml" />
+      <change beforePath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/applicationContext.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -205,18 +43,7 @@
     <favorites_list name="OnlineSurvey" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="css-table.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/css-table.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../OnlineSurvey" />
@@ -232,6 +59,7 @@
         <option value="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/../OnlineSurvey/pom.xml" />
+        <option value="$PROJECT_DIR$/../OnlineSurvey/src/main/resources/applicationContext.xml" />
       </list>
     </option>
   </component>
@@ -268,12 +96,6 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="OnlineSurvey" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="OnlineSurvey" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.slf4j:slf4j-log4j12:1.7.2" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
       </expand>
       <select />
@@ -325,11 +147,6 @@
               <item name="OnlineSurvey" type="b2602c69:ProjectViewProjectNode" />
               <item name="OnlineSurvey" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="OnlineSurvey" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OnlineSurvey" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -343,10 +160,15 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1484375" />
     <property name="project.structure.side.proportion" value="0.3426724" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../OnlineSurvey" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OnlineSurvey\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -530,12 +352,20 @@
       <option name="presentableId" value="Default" />
       <updated>1521310502375</updated>
       <workItem from="1521310506856" duration="182000" />
-      <workItem from="1521310798349" duration="3998000" />
+      <workItem from="1521310798349" duration="5700000" />
     </task>
+    <task id="LOCAL-00001" summary="A TestSSHDemo">
+      <created>1521314883365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521314883365</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4180000" />
+    <option name="totallyTimeSpent" value="5882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -543,7 +373,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43255296" sideWeight="0.22707888" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.68540144" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -552,13 +382,13 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4330357" sideWeight="0.7729211" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4330357" sideWeight="0.7729211" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18496802" sideWeight="0.49283153" order="0" side_tool="false" content_ui="combo" />
@@ -572,6 +402,39 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43255296" sideWeight="0.22707888" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.68540144" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963504" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4330357" sideWeight="0.7729211" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18496802" sideWeight="0.49283153" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25328466" sideWeight="0.5071685" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25328466" sideWeight="0.5071685" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -608,22 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/applicationContext-beans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-765">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/db.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -640,26 +487,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1562">
-          <caret line="71" column="25" lean-forward="true" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../OnlineSurvey/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -730,8 +561,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/css_files/css-table.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="286">
           <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/front/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/target/OnlineSurvey/front/survey-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/java/com/bistu/survey/filter/RequestFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/Survey.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="50" lean-forward="true" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/applicationContext-beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="71" column="25" lean-forward="true" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="52" column="29" lean-forward="false" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/target/classes/struts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="54" column="53" lean-forward="false" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/target/OnlineSurvey/front/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OnlineSurvey/target/OnlineSurvey/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="12" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -790,11 +709,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web|OnlineSurvey</last-edited>
+          <last-edited>OnlineSurvey</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.3426724" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
