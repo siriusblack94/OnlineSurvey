@@ -40,6 +40,7 @@
     <leaf />
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../OnlineSurvey" />
   </component>
   <component name="GradleLocalSettings">
@@ -346,7 +347,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521310502375</updated>
       <workItem from="1521310506856" duration="182000" />
-      <workItem from="1521310798349" duration="7050000" />
+      <workItem from="1521310798349" duration="7147000" />
     </task>
     <task id="LOCAL-00001" summary="A TestSSHDemo">
       <created>1521314883365</created>
@@ -397,11 +398,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521317779915</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="A TestSSHDemo">
+      <created>1521317860066</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1521317860066</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7232000" />
+    <option name="totallyTimeSpent" value="7329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
